@@ -45,7 +45,7 @@ The dataset is highly sparse because each user interacts with only a small subse
 
 ## 🧠 Implemented Models
 
-### 1. 🔷 Item-Based Collaborative Filtering (IBCF) — *Baseline Model*
+### 1. Item-Based Collaborative Filtering (IBCF) — *Baseline Model*
 
 **File:** `IBCF.ipynb`
 
@@ -66,7 +66,7 @@ A memory-based recommendation approach that computes item similarities based on 
 
 ---
 
-### 2. 🔶 Alternating Least Squares (ALS) — *Advanced Model*
+### 2. Alternating Least Squares (ALS) — *Advanced Model*
 
 **File:** `ALS_FINAL.ipynb`
 
@@ -88,7 +88,7 @@ A model-based recommendation approach using **Matrix Factorization** with confid
 
 ---
 
-### 3. 🟣 Bayesian Personalized Ranking (BPR) — *Advanced Model*
+### 3. Bayesian Personalized Ranking (BPR) — *Advanced Model*
 
 **File:** `BPR_Final.ipynb`
 
